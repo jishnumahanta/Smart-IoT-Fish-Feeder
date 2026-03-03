@@ -167,4 +167,4 @@ Building intelligent systems & calm UX.
 
 ## 📜 License
 
-MIT License (or your preferred license)
+MIT License 
